@@ -26,7 +26,7 @@ let assignmentQuestions = ["Are you \nhappy with \nyourself?","Did you \nfeel go
 function preload() {
   font = loadFont('VT323-Regular.ttf');
 	
-	cWindow = loadImage("window.png");
+	//cWindow = loadImage("window.png"); REMOVED THE FILE
 	mouseImg = loadImage("cursor-png-1128.png");
 	
 	pfp = loadImage("Remove background (1).png");
